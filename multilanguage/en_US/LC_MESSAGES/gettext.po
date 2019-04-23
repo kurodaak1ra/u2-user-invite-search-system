@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: U2 Invite Search System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-27 09:35+0800\n"
+"PO-Revision-Date: 2019-01-21 15:06+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language-Team: KurodaAkira\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# ######### ########## ########## ##########
+# 主页
+# ######### ########## ########## ##########
+# 网页标题
+msgid "U2 Invite Search System"
+msgstr "U2 Invite Search System"
+
+# 系统维护
+msgid "System Maintenance..."
+msgstr "System Maintenance..."
+
+# 登录验证
+msgid "Invalid UID"
+msgstr "Invalid UID"
+
+msgid "Username can't mach UID, please re-enter"
+msgstr "Username can't mach UID, please re-enter"
+
+msgid "Auto login verification failed, please login again"
+msgstr "Auto login verification failed, please login again"
+
+# 菜单
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Choose Language"
+msgstr "Choose Language"
+
+msgid "Logout"
+msgstr "Logout"
+
+# select 和 input
+msgid "Username"
+msgstr "Username"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Please Enter Username"
+msgstr "Please Enter Username"
+
+msgid "Please Enter UID"
+msgstr "Please Enter UID"
+
+msgid "Please Enter Username or UID"
+msgstr "Please Enter Username or UID"
+
+# 功能按钮
+msgid "Invitee"
+msgstr "Invitee"
+
+msgid "Families"
+msgstr "Families"
+
+msgid "Same Clan"
+msgstr "Same Clan"
+
+msgid "Family Tree"
+msgstr "Family Tree"
+
+msgid "SC Tree"
+msgstr "SC Tree"
+
+msgid "About"
+msgstr "About"
+
+# 邀请代数列表
+msgid "First-generation invitations:"
+msgstr "First-generation invitations:"
+
+msgid "Second-generation invitations:"
+msgstr "Second-generation invitations:"
+
+msgid "Third-generation invitations:"
+msgstr "Third-generation invitations:"
+
+msgid "Forth-generation invitations:"
+msgstr "Forth-generation invitations:"
+
+msgid "Fifth-generation invitations:"
+msgstr "Fifth-generation invitations:"
+
+msgid "Sixth-generation invitations:"
+msgstr "Sixth-generation invitations:"
+
+msgid "Seventh-generation invitations:"
+msgstr "Seventh-generation invitations:"
+
+msgid "Eighth-generation invitations:"
+msgstr "Eighth-generation invitations:"
+
+msgid "Ninth-generation invitations:"
+msgstr "Ninth-generation invitations:"
+
+msgid "Tenth-generation invitations:"
+msgstr "Tenth-generation invitations:"
+
+# 关于
+msgid "This System is Provide for U2 Users Search Invitees"
+msgstr "This System is Provide for U2 Users Search Invitees"
+
+msgid "Developers (Names not listed in order) :"
+msgstr "Developers (Names not listed in order) :"
+
+msgid "Main Topic: "
+msgstr "Main Topic: "
+
+msgid "Click Me to Jump"
+msgstr "Click Me to Jump"
+
+msgid "Readme: "
+msgstr "Readme: "
+
+msgid "Data request time: "
+msgstr "Data request time: "
+
+msgid "Notice: If your privacy set strong, you can only use uid to search, if you are not invite anybody, you can't search about yours anything"
+msgstr "Notice: If your privacy set strong, you can only use uid to search, if you are not invite anybody, you can't search about yours anything"
+
+# 访问量
+msgid "Today's Visits: "
+msgstr "Today's Visits: "
+
+msgid "times"
+msgstr "times"
+
+# 登录弹窗
+msgid "U2 Users Authentication"
+msgstr "U2 Users Authentication"
+
+msgid "Please Full Enter Username and UID"
+msgstr "Please Full Enter Username and UID"
+
+msgid "Choose Language (Default: Current Page Setup)"
+msgstr "Choose Language (Default: Current Page Setup)"
+
+msgid "Login"
+msgstr "Login"
+
+# ######### ########## ########## ##########
+# 关系树页
+# ######### ########## ########## ##########
+msgid "U2 Invite Tree"
+msgstr "U2 Invite Tree"
+
+# ######### ########## ########## ##########
+# 直接邀请
+# ######### ########## ########## ##########
+msgid "Direct invite: "
+msgstr "Direct invite: "
+
+msgid "Parameter Error"
+msgstr "Parameter Error"
+
+msgid "匿名用户 Prohibited Use Username Search"
+msgstr "匿名用户 Prohibited Use Username Search"
+
+msgid "No Such User, or Please Change the Query Method"
+msgstr "No Such User, or Please Change the Query Method"
+
+# ######### ########## ########## ##########
+# 家族、本家人口
+# ######### ########## ########## ##########
+msgid "Total number of families: "
+msgstr "Total number of families: "
+
+msgid "Total member of the same clan: "
+msgstr "Total member of the same clan: "

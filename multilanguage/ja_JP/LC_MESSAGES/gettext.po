@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: U2 招待状照会システム\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-27 09:35+0800\n"
+"PO-Revision-Date: 2019-01-21 15:06+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language-Team: KurodaAkira\n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# ######### ########## ########## ##########
+# 主页
+# ######### ########## ########## ##########
+# 网页标题
+msgid "U2 Invite Search System"
+msgstr "U2 招待状照会システム"
+
+# 系统维护
+msgid "System Maintenance..."
+msgstr "システムメンテナンス。。。"
+
+# 登录验证
+msgid "Invalid UID"
+msgstr "無効な UID"
+
+msgid "Username can't mach UID, please re-enter"
+msgstr "ユーザー名が UID と一致しません。再入力してください"
+
+msgid "Auto login verification failed, please login again"
+msgstr "無料ログインの確認に失敗しました。もう一度手動でログインしてください"
+
+# 菜单
+msgid "MENU"
+msgstr "メニュー"
+
+msgid "Choose Language"
+msgstr "言語を選択してください"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+# select 和 input
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Please Enter Username"
+msgstr "ユーザー名 を入力してください"
+
+msgid "Please Enter UID"
+msgstr "UID を入力してください"
+
+msgid "Please Enter Username or UID"
+msgstr "ユーザー名 または UID を入力してください"
+
+# 功能按钮
+msgid "Invitee"
+msgstr "ハーレム"
+
+msgid "Families"
+msgstr "家族の総数"
+
+msgid "Same Clan"
+msgstr "本家の総数"
+
+msgid "Family Tree"
+msgstr "家系図を見る"
+
+msgid "SC Tree"
+msgstr "本家図を見る"
+
+msgid "About"
+msgstr "について"
+
+# 邀请代数列表
+msgid "First-generation invitations:"
+msgstr "第一世代の招待状の総数:"
+
+msgid "Second-generation invitations:"
+msgstr "第二世代の招待状の総数:"
+
+msgid "Third-generation invitations:"
+msgstr "第三世代の招待状の総数:"
+
+msgid "Forth-generation invitations:"
+msgstr "第四世代の招待状の総数:"
+
+msgid "Fifth-generation invitations:"
+msgstr "第五世代の招待状の総数:"
+
+msgid "Sixth-generation invitations:"
+msgstr "第六世代の招待状の総数:"
+
+msgid "Seventh-generation invitations:"
+msgstr "第七世代の招待状の総数:"
+
+msgid "Eighth-generation invitations:"
+msgstr "第八世代の招待状の総数:"
+
+msgid "Ninth-generation invitations:"
+msgstr "第九世代の招待状の総数:"
+
+msgid "Tenth-generation invitations:"
+msgstr "第十世代の招待状の総数:"
+
+# 关于
+msgid "This System is Provide for U2 Users Search Invitees"
+msgstr "このシステムは U2 ユーザークエリ専用です"
+
+msgid "Developers (Names not listed in order) :"
+msgstr "このシステムの開発に参加します（特定の順序ではありません）:"
+
+msgid "Main Topic: "
+msgstr "主な投稿："
+
+msgid "Click Me to Jump"
+msgstr "私をジャンプさせる"
+
+msgid "Readme: "
+msgstr "使い方："
+
+msgid "Data request time: "
+msgstr "データ要求時間："
+
+msgid "Notice: If your privacy set strong, you can only use uid to search, if you are not invite anybody, you can't search about yours anything"
+msgstr "注：高いプライバシーを設定した場合は、UIDのみが照会を許可され、他のユーザーを招待していない場合は、あなたに関する情報を見つけることができません"
+
+# 访问量
+msgid "Today's Visits: "
+msgstr "今日の訪問："
+
+msgid "times"
+msgstr "度"
+
+# 登录弹窗
+msgid "U2 Users Authentication"
+msgstr "U2 ユーザー認証"
+
+msgid "Please Full Enter Username and UID"
+msgstr "完了してください"
+
+msgid "Choose Language (Default: Current Page Setup)"
+msgstr "言語を選択してください（デフォルト：現在のページの言語）"
+
+msgid "Login"
+msgstr "ログイン"
+
+# ######### ########## ########## ##########
+# 关系树页
+# ######### ########## ########## ##########
+msgid "U2 Invite Tree"
+msgstr "U2 招待状ツリー"
+
+# ######### ########## ########## ##########
+# 直接邀请
+# ######### ########## ########## ##########
+msgid "Direct invite: "
+msgstr "直接ハーレム："
+
+msgid "Parameter Error"
+msgstr "パラメータエラー"
+
+msgid "匿名用户 Prohibited Use Username Search"
+msgstr "匿名用户 は Username メソッドの使用を禁止されています"
+
+msgid "No Such User, or Please Change the Query Method"
+msgstr "そのようなユーザーはいないか、クエリ方法を変更してください"
+
+# ######### ########## ########## ##########
+# 家族、本家人口
+# ######### ########## ########## ##########
+msgid "Total number of families: "
+msgstr "総家族人口："
+
+msgid "Total member of the same clan: "
+msgstr "本家族人口："

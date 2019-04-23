@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: U2 邀請查詢系統\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-27 09:35+0800\n"
+"PO-Revision-Date: 2019-01-21 15:06+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language-Team: KurodaAkira\n"
+"Language: zh_HK\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# ######### ########## ########## ##########
+# 主页
+# ######### ########## ########## ##########
+# 网页标题
+msgid "U2 Invite Search System"
+msgstr "U2 邀請查詢系統"
+
+# 系统维护
+msgid "System Maintenance..."
+msgstr "系統維護中。。。"
+
+# 登录验证
+msgid "Invalid UID"
+msgstr "無效 UID"
+
+msgid "Username can't mach UID, please re-enter"
+msgstr "用户名 與 UID 不匹配，請重新輸入"
+
+msgid "Auto login verification failed, please login again"
+msgstr "免登陸驗證失敗，請手動重新登錄"
+
+# 菜单
+msgid "MENU"
+msgstr "菜 &nbsp; 單"
+
+msgid "Choose Language"
+msgstr "請選擇語言"
+
+msgid "Logout"
+msgstr "登 出"
+
+# select 和 input
+msgid "Username"
+msgstr "用户名"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Please Enter Username"
+msgstr "請輸入用户名"
+
+msgid "Please Enter UID"
+msgstr "請輸入 UID"
+
+msgid "Please Enter Username or UID"
+msgstr "請填寫 用户名 或 UID"
+
+# 功能按钮
+msgid "Invitee"
+msgstr "查看後宮"
+
+msgid "Families"
+msgstr "家族總人數"
+
+msgid "Same Clan"
+msgstr "本家總人數"
+
+msgid "Family Tree"
+msgstr "查看家族樹"
+
+msgid "SC Tree"
+msgstr "查看本家樹"
+
+msgid "About"
+msgstr "關於"
+
+# 邀请代数列表
+msgid "First-generation invitations:"
+msgstr "第一代邀請總人數:"
+
+msgid "Second-generation invitations:"
+msgstr "第二代邀請總人數:"
+
+msgid "Third-generation invitations:"
+msgstr "第三代邀請總人數:"
+
+msgid "Forth-generation invitations:"
+msgstr "第四代邀請總人數:"
+
+msgid "Fifth-generation invitations:"
+msgstr "第五代邀請總人數:"
+
+msgid "Sixth-generation invitations:"
+msgstr "第六代邀請總人數:"
+
+msgid "Seventh-generation invitations:"
+msgstr "第七代邀請總人數:"
+
+msgid "Eighth-generation invitations:"
+msgstr "第八代邀請總人數:"
+
+msgid "Ninth-generation invitations:"
+msgstr "第九代邀請總人數:"
+
+msgid "Tenth-generation invitations:"
+msgstr "第十代邀請總人數:"
+
+# 关于
+msgid "This System is Provide for U2 Users Search Invitees"
+msgstr "本系統僅供 U2 用户查詢使用"
+
+msgid "Developers (Names not listed in order) :"
+msgstr "參與本系統開發 (排名不分先後) :"
+
+msgid "Main Topic: "
+msgstr "主貼："
+
+msgid "Click Me to Jump"
+msgstr "點我跳轉"
+
+msgid "Readme: "
+msgstr "使用方法："
+
+msgid "Data request time: "
+msgstr "數據請求時間："
+
+msgid "Notice: If your privacy set strong, you can only use uid to search, if you are not invite anybody, you can't search about yours anything"
+msgstr "注意：當您設置了高隱私時，則只允許以 UID 的方式進行查詢，如果您沒有邀請過任何人，則您將查詢不到關於您的任何信息"
+
+# 访问量
+msgid "Today's Visits: "
+msgstr "今日訪問量："
+
+msgid "times"
+msgstr "次"
+
+# 登录弹窗
+msgid "U2 Users Authentication"
+msgstr "U2 用户身份認證"
+
+msgid "Please Full Enter Username and UID"
+msgstr "請填寫完整"
+
+msgid "Choose Language (Default: Current Page Setup)"
+msgstr "請選擇語言（默認：當前頁面語言）"
+
+msgid "Login"
+msgstr "登 錄"
+
+# ######### ########## ########## ##########
+# 关系树页
+# ######### ########## ########## ##########
+msgid "U2 Invite Tree"
+msgstr "U2 邀請關係樹"
+
+# ######### ########## ########## ##########
+# 直接邀请
+# ######### ########## ########## ##########
+msgid "Direct invite: "
+msgstr "直屬後宮："
+
+msgid "Parameter Error"
+msgstr "參數錯誤"
+
+msgid "匿名用户 Prohibited Use Username Search"
+msgstr "匿名用戶 禁止使用 Username 方式查詢"
+
+msgid "No Such User, or Please Change the Query Method"
+msgstr "無此用户，或請更改查詢方式"
+
+# ######### ########## ########## ##########
+# 家族、本家人口
+# ######### ########## ########## ##########
+msgid "Total number of families: "
+msgstr "家族總人口："
+
+msgid "Total member of the same clan: "
+msgstr "本家總人口："
